@@ -1,0 +1,113 @@
+############################
+# Node.js
+############################
+node_modules/
+npm-debug.log
+yarn-error.log
+
+############################
+# Build
+############################
+.tmp/
+build/
+dist/
+
+############################
+# Strapi
+############################
+.env
+.cache/
+*.cache
+exports/
+.strapi-updater.json
+.strapi/
+
+############################
+# Database
+############################
+*.db
+*.db-shm
+*.db-wal
+data.db*
+
+############################
+# OS
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Editor
+############################
+.vscode/
+.idea/
+
+################
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+._*
+
+
+###########################K
+############################
+# Misc.
+############################
+
+*#
+ssl
+.idea
+nbproject
+public/uploads/*
+!public/uploads/.gitkeep
+.tsbuildinfo
+.eslintcache
+
+############################
+# Node.js
+############################
+# Node.js
+############################
+node_modules/
+npm-debug.log
+yarn-error.log
+
+############################
+# Build
+############################
+.tmp/
+build/
+dist/
+
+############################
+# Strapi
+############################
+.env
+.cache/
+*.cache
+exports/
+.strapi-updater.json
+.strapi/
+
+############################
+# Database
+############################
+*.db
+*.db-shm
+*.db-wal
+data.db*
+
+############################
+# OS
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Editor
+############################
+.vscode/
+.idea/
+
